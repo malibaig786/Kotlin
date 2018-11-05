@@ -1,1 +1,61 @@
-# Kotlin
+# Resources
+- [Offical Docs](http://kotlinlang.org/docs/reference/)
+
+# Why Kotlin
+- [Why starting a new Android project with Java is a bad idea](https://medium.com/snapp-mobile/why-starting-a-new-android-project-with-java-is-a-bad-idea-359bffe0bbd6)
+- [The State of Kotlin survey findings](https://stories.pusher.com/the-state-of-kotlin-survey-findings-ffd6d925c696)
+
+# Architecture Components
+- [View Model Creation in Android — Android Architecture Components & Kotlin](https://medium.com/@felipemagalhes_92947/view-model-creation-in-android-android-architecture-components-kotlin-ce9f6b93a46b)
+- [Navigation Architecture Component for the Rest of Us](https://proandroiddev.com/navigation-architecture-component-for-the-rest-of-us-faafa890e5)
+- [Exploring Paging Library from Jetpack](https://proandroiddev.com/exploring-paging-library-from-jetpack-c661c7399662)
+
+# Coroutines
+- [Coroutines Guide](https://github.com/Kotlin/kotlinx.coroutines/blob/master/coroutines-guide.md)
+- [Second Link](https://kotlinexpertise.com/kotlin-coroutines-guide/)
+- [Android Networking with Coroutines and Retrofit](https://medium.com/exploring-android/android-networking-with-coroutines-and-retrofit-a2f20dd40a83)
+- [Advanced Kotlin Coroutines tips and tricks](https://proandroiddev.com/coroutines-snags-6bf6fb53a3d1)
+- [Simple asynchronous loading with Kotlin Coroutines](https://hellsoft.se/simple-asynchronous-loading-with-kotlin-coroutines-f26408f97f46)
+- [Blocking threads, suspending coroutines](https://medium.com/@elizarov/blocking-threads-suspending-coroutines-d33e11bf4761)
+- [Rewriting RxJava with Kotlin Coroutines? (Analysis)](https://akarnokd.blogspot.hu/2017/09/rewriting-rxjava-with-kotlin-coroutines.html)
+- [Using Kotlin Coroutines in your Android App](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/#0)
+
+# UnArranged
+- [What's New In Kotlin 1.3?](https://todd.ginsberg.com/post/kotlin-1.3-features/)
+- [Java Developers: var Is Your Friend](https://todd.ginsberg.com/post/var-is-your-friend/)
+- [Discovering Kotlin Contracts](https://proandroiddev.com/discovering-kotlin-contracts-3e7ed1360602)
+- [Kotlin Momentum for Android and Beyond](https://android-developers.googleblog.com/2018/10/kotlin-momentum-for-android-and-beyond.html?linkId=57742766)
+- [Android Pie SDK is now more Kotlin-friendly](https://android-developers.googleblog.com/2018/08/android-pie-sdk-is-now-more-kotlin.html)
+- [New in Kotlin 1.3: The ifEmpty function](https://twitter.com/kotlin/status/1058433997443866625)
+- [Kotlin Demystified: When to use custom accessors](https://medium.com/androiddevelopers/kotlin-demystified-when-to-use-custom-accessors-939a6e998899)
+- [Adopting Kotlin](https://medium.com/androiddevelopers/adopting-kotlin-50c0df79b879?linkId=57658767)
+- [Kotlin Demystified: The power of `when`](https://medium.com/androiddevelopers/kotlin-demystified-thef-power-of-when-f0ac616ddd1a?linkId=57403189)
+- [Kotlin / Android Studio Development Essentials](http://www.techotopia.com/index.php/Kotlin_/_Android_Studio_Development_Essentials)
+- [Creating a simple blockchain in Kotlin](https://amarszalek.net/blog/2018/03/20/simple-blockchain-in-kotlin/)
+- [Effective Java in Kotlin, item 1:](https://blog.kotlin-academy.com/effective-java-in-kotlin-item-1-consider-static-factory-methods-instead-of-constructors-8d0d7b5814b2)
+- [Effective Java in Kotlin, item 2:](https://blog.kotlin-academy.com/effective-java-in-kotlin-item-2-consider-a-builder-when-faced-with-many-constructor-parameters-1927e69608e1)
+- [Functional Android (II): Collection operations in Kotlin](https://antonioleiva.com/collection-operations-kotlin/)
+- [Understanding the power of generics ](https://antonioleiva.com/generic-functions-kotlin/)
+- [The Ins and Outs of Generic Variance in Kotlin](https://typealias.com/guides/ins-and-outs-of-generic-variance)
+- [Demystifying the inline keyword](https://www.kotlindevelopment.com/inline-noinline-crossinline-reified/)
+- [Traversing through dates with Kotlin range expressions](https://www.netguru.co/codestories/traversing-through-dates-with-kotlin-range-expressions)
+- [31DaysofKotlin](https://twitter.com/i/moments/980488782406303744)
+- [31DaysOfKotlin — Week 1 Recap](https://medium.com/google-developers/31daysofkotlin-week-1-recap-fbd5a622ef86)
+- [31DaysOfKotlin — Week 2 Recap](https://medium.com/google-developers/31daysofkotlin-week-2-recap-9eedcd18ef8)
+- [#31DaysOfKotlin — Week 3 Recap](https://medium.com/google-developers/31daysofkotlin-week-3-recap-20b20ca9e205)
+- [Summary of #31DaysOfKotlin](https://proandroiddev.com/summary-of-31daysofkotlin-68319d1d4972)
+- [Kotlin: When to Use Lazy or Lateinit](https://www.bignerdranch.com/blog/kotlin-when-to-use-lazy-or-lateinit/)
+- [Functional Android (II): Collection operations in Kotlin](https://antonioleiva.com/collection-operations-kotlin/)
+- [Exploring Kotlin: useful standard library functions](https://medium.freecodecamp.org/exploring-kotlin-useful-standard-library-functions-6de19342f35a)
+- [Parcelable in Kotlin? Here comes Parcelize](https://proandroiddev.com/parcelable-in-kotlin-here-comes-parcelize-b998d5a5fcac)
+- [Exploring KTX for Android](https://medium.com/exploring-android/exploring-ktx-for-android-13a369795b51)
+- [Why starting a new Android project with Java is a bad idea](https://medium.com/snapp-mobile/why-starting-a-new-android-project-with-java-is-a-bad-idea-359bffe0bbd6)
+- [Why and how I switched to Kotlin](https://android.jlelse.eu/why-and-how-i-switched-to-kotlin-503460bbfcf)
+- [Modern Android development with Kotlin](https://proandroiddev.com/modern-android-development-with-kotlin-september-2017-part-1-f976483f7bd6)
+- [The power of Kotlin extension functions](https://www.kotlindevelopment.com/kotlin-extension-functions/)
+- [Inlining Kotlin Properties](https://blog.egorand.me/inlining-kotlin-properties/) 
+- [Using RxBinding with Kotlin and RxJava2](http://adavis.info/2017/07/using-rxbinding-with-kotlin-and-rxjava2.html)
+- [An Introduction to Kotlin Multiplatform Projects](https://www.novoda.com/blog/introduction-to-kotlin-multiplatform/)
+- [How to mock final classes on Kotlin using Mockito 2 (KAD 23)](https://antonioleiva.com/mockito-2-kotlin/)
+
+
